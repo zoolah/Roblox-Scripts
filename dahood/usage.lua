@@ -293,4 +293,4 @@ getgenv().Zula = {
 				NotifyOnReport = true
             }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zoolah/zula-hub/refs/heads/main/individuals/dh.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zoolah/Roblox-Scripts/refs/heads/main/dahood/src.lua"))()
